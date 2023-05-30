@@ -12,7 +12,7 @@
   
 <tr>
   <td>1</td>
-  <td><a href = "https://github.com/elena-iliushina/Investigation_of_the_reliability_of_borrowers">Исследование надежности заемщиков</a></td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Credit_project">Исследование надежности заемщиков</a></td>
   <td>Data Analyst / Банковская сфера</td>
   <td>На основе статистики о платежеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок</td>
   <td> 
@@ -24,7 +24,7 @@
   
 <tr>
   <td>2</td>
-  <td><a href = "https://github.com/elena-iliushina/research_of_ads_for_the_sale_of_apartments/">Исследование объявлений о продаже квартир в Санкт-Петербурге</a></td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Apartments_ads_project">Исследование объявлений о продаже квартир в Санкт-Петербурге</a></td>
   <td>Data Analyst / Интернет-сервисы</td>
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность</td>
   <td> 
@@ -37,7 +37,7 @@
   
 <tr>
   <td>3</td>
-  <td><a href = "https://github.com/sxemixa/Games-rating">Изучение закономерностей, определяющих успешность игр</a></td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Games_project">Изучение закономерностей, определяющих успешность игр</a></td>
   <td>Data Analyst / Интернет-сервисы</td>
   <td>Используя исторические данные о продажах компьютерных игр, выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</td>
   <td> 
@@ -51,16 +51,15 @@
   
 <tr>
   <td>4</td>
-  <td><a href = "https://github.com/sxemixa/Games-rating">Рекомендация тарифов</a></td>
-  <td>Data Scientist - Классификация / Телеком</td>
-  <td>На основе данных предложить клиенту тариф. Это позволит построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тарифов</td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Tariff_project">Определение перспективного тарифа для телеком компании</a></td>
+  <td>Data Analyst / Телеком</td>
+  <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
   <td> 
     <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=ffffff" alt="Pandas">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=Numpy&logoColor=ffffff" alt="Numpy">
     <img src="https://img.shields.io/badge/SciPy-0054A6?style=flat&logo=scipy&logoColor=65AED7" alt="SkiPy">
     <img src="https://img.shields.io/badge/Matplotlib-343942?style=flat&logo=matplotlib&logoColor=4698C6" alt="Matplotlib">
     <img src="https://img.shields.io/badge/Seaborn-4698C6?style=flat&logo=linear&logoColor=ffffff" alt="Seaborn">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=ffffff" alt="Scikit">
   </td>
 </tr>
   
