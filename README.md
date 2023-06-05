@@ -65,8 +65,8 @@
   
 <tr>
   <td>5</td>
-  <td><a href = "https://github.com/sxemixa/Games-rating">Прогнозирование оттока клиентов банка</a></td>
-  <td>Data Scientist - Классификация / Банковская сфера</td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Bank_project">Прогнозирование оттока клиентов банка</a></td>
+  <td>Data Scientist / Классификация / Банковская сфера</td>
   <td>На основании исторических данных о поведении клиентов и расторжении договоров с банком нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет</td>
   <td> 
     <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=ffffff" alt="Pandas">
@@ -80,7 +80,7 @@
 <tr>
   <td>6</td>
   <td><a href = "https://github.com/sxemixa/Games-rating">Определение наиболее выгодного региона нефтедобычи</a></td>
-  <td>Data Scientist - Регрессия / Разработка бизнес-модели / Добывающие компании</td>
+  <td>Data Scientist / Регрессия / Разработка бизнес-модели / Добывающие компании</td>
   <td>На основе данных геологии разведки выбрать район добычи нефти</td>
   <td> 
     <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=ffffff" alt="Pandas">
@@ -94,7 +94,7 @@
  <tr>
   <td>7</td>
   <td><a href = "https://github.com/sxemixa/Games-rating">Исследование технологического процесса очистки золота</a></td>
-  <td>Data Scientist - Регрессия / Data Analyst / Промышленность</td>
+  <td>Data Scientist / Регрессия / Data Analyst / Промышленность</td>
   <td>Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
   <td> 
     <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=ffffff" alt="Pandas">
