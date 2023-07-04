@@ -116,7 +116,7 @@
   
 <tr>
   <td>6</td>
-  <td><a href = "https://github.com/sxemixa/Games-rating">Определение наиболее выгодного региона нефтедобычи</a></td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Oil_project">Определение наиболее выгодного региона нефтедобычи</a></td>
   <td>Data Scientist / Регрессия / Разработка бизнес-модели / Добывающие компании</td>
   <td>На основе данных геологии разведки выбрать район добычи нефти</td>
   <td> 
