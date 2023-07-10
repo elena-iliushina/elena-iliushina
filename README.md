@@ -35,6 +35,11 @@
 
 </table>
 
+
+# Задачи SQL:
+
+<a href = "https://github.com/elena-iliushina/Portfolio/tree/main/SQL_project">Задачи, решенные мной на языке SQL</a>
+
 # Учебные проекты:
 
 <table>
