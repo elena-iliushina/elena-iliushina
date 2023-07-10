@@ -129,5 +129,20 @@
     <img src="https://img.shields.io/badge/CatBoost-DDB71D?style=flat&logo=hubspot&logoColor=ffffff" alt="CatBoost">
   </td>
 </tr>  
+
+ <tr>
+  <td>7</td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Car_project">Построение модели определения стоимости автомобиля</a></td>
+  <td>Data Scientist / Регрессия / Интернет-сервисы</td>
+  <td>На основе исторических данных необходимо построить модель для определения стоимости автомобиля</td>
+  <td> 
+    <img src="https://img.shields.io/badge/Matplotlib-343942?style=flat&logo=matplotlib&logoColor=4698C6" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-4698C6?style=flat&logo=linear&logoColor=ffffff" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=ffffff" alt="Scikit">
+    <img src="https://img.shields.io/badge/CatBoost-DDB71D?style=flat&logo=hubspot&logoColor=ffffff" alt="CatBoost">
+    <img src="https://img.shields.io/badge/LightGBM-729E4E?style=flat&logo=LightGBM&logoColor=ffffff" alt="LightGBM">
+    <img src="https://img.shields.io/badge/Phi_K-6B9FDC?style=flat&logo=homeadvisor&logoColor=ffffff" alt="Phi_K">
+  </td>
+</tr>  
  
 </table>
