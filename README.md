@@ -164,5 +164,19 @@
     <img src="https://img.shields.io/badge/StatsModels-4051B5?style=flat&logo=statsmodels&logoColor=ffffff" alt="statsmodels">
   </td>
 </tr> 
- 
+
+ <tr>
+  <td>10</td>
+  <td><a href = "https://github.com/elena-iliushina/Portfolio/tree/main/Twit_project">Обучение модели классификации комментариев</a></td>
+  <td>Data Scientist / Классификая / Интернет-сервисы</td>
+  <td>Определение токсичности комментариев.</td>
+  <td> 
+    <img src="https://img.shields.io/badge/Matplotlib-343942?style=flat&logo=matplotlib&logoColor=4698C6" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-4698C6?style=flat&logo=linear&logoColor=ffffff" alt="Seaborn">
+    <img src="https://img.shields.io/badge/CatBoost-DDB71D?style=flat&logo=hubspot&logoColor=ffffff" alt="CatBoost">
+    <img src="https://img.shields.io/badge/NLTK-343942?style=flat&logo=LightGBM&logoColor=ffffff" alt="NLTK">
+    <img src="https://img.shields.io/badge/RE-DCBD6D?style=flat&logo=statsmodels&logoColor=ffffff" alt="RE">
+  </td>
+</tr> 
+
 </table>
